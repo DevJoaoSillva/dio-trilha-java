@@ -63,5 +63,5 @@ classDiagram
 4. Submeta seu repositório GitHub conforme as orientações da plataforma DIO. Por exemplo:
 
 ```bash
-https://github.com/DevJoaoSillva/dio-trilha-java/blob/main/EstruturasCondicionais/CONTROLE-FLUXO/README.md
+https://github.com/DevJoaoSillva/dio-trilha-java/blob/main/iphone.md
 ```` 
